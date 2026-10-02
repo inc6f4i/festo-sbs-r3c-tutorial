@@ -1,0 +1,214 @@
+[
+ {
+  "src": "images/raw/photo_samples_brown-vs-light.jpg",
+  "out": "images/annotated/photo_08_samples_brown-vs-light.jpg",
+  "crop": [
+   260,
+   740,
+   1120,
+   1280
+  ],
+  "boxes": [
+   {
+    "n": 1,
+    "xy": [
+     345,
+     820,
+     700,
+     1205
+    ]
+   },
+   {
+    "n": 2,
+    "xy": [
+     700,
+     820,
+     1035,
+     1205
+    ],
+    "badge": "right"
+   }
+  ]
+ },
+ {
+  "src": "images/raw/photo_samples_pink-ng.jpg",
+  "out": "images/annotated/photo_08_samples_pink-ng.jpg",
+  "boxes": [
+   {
+    "n": 1,
+    "xy": [
+     170,
+     550,
+     490,
+     770
+    ],
+    "badge": "top"
+   },
+   {
+    "n": 2,
+    "xy": [
+     560,
+     550,
+     880,
+     890
+    ],
+    "badge": "right"
+   },
+   {
+    "n": 3,
+    "xy": [
+     240,
+     930,
+     1020,
+     1640
+    ],
+    "badge": "top"
+   }
+  ]
+ },
+ {
+  "src": "images/raw/photo_check-position_marked.jpg",
+  "out": "images/annotated/photo_08_check-position.jpg",
+  "boxes": [
+   {
+    "n": 1,
+    "xy": [
+     520,
+     1145,
+     665,
+     1238
+    ]
+   },
+   {
+    "n": 2,
+    "xy": [
+     330,
+     90,
+     745,
+     550
+    ],
+    "badge": "right"
+   },
+   {
+    "n": 3,
+    "xy": [
+     1255,
+     1420,
+     1500,
+     1700
+    ],
+    "badge": "top"
+   }
+  ]
+ },
+ {
+  "src": "images/raw/photo_distance_ruler.jpg",
+  "out": "images/annotated/photo_00_distance_ruler.jpg",
+  "crop": [
+   250,
+   750,
+   1200,
+   1450
+  ],
+  "boxes": [
+   {
+    "n": 1,
+    "xy": [
+     300,
+     1232,
+     1180,
+     1238
+    ],
+    "badge": "left"
+   },
+   {
+    "n": 2,
+    "xy": [
+     700,
+     1112,
+     1180,
+     1118
+    ],
+    "badge": "right"
+   },
+   {
+    "n": 3,
+    "xy": [
+     700,
+     1032,
+     1180,
+     1038
+    ],
+    "badge": "right"
+   },
+   {
+    "n": 4,
+    "xy": [
+     700,
+     819,
+     1180,
+     825
+    ],
+    "badge": "right"
+   }
+  ]
+ },
+ {
+  "src": "images/raw/photo_terminal-block.jpg",
+  "out": "images/annotated/photo_06_terminal-block.jpg",
+  "boxes": [
+   {
+    "n": 1,
+    "xy": [
+     100,
+     800,
+     630,
+     1500
+    ],
+    "badge": "top"
+   },
+   {
+    "n": 2,
+    "xy": [
+     530,
+     1040,
+     880,
+     1400
+    ],
+    "badge": "right"
+   },
+   {
+    "n": 3,
+    "xy": [
+     830,
+     1020,
+     980,
+     1220
+    ],
+    "badge": "right"
+   }
+  ]
+ },
+ {
+  "src": "images/raw/photo_check-position_marked.jpg",
+  "out": "images/annotated/photo_08_check-position_zoom.jpg",
+  "crop": [
+   380,
+   1000,
+   780,
+   1330
+  ],
+  "boxes": [
+   {
+    "n": 1,
+    "xy": [
+     520,
+     1145,
+     665,
+     1238
+    ],
+    "badge": "right"
+   }
+  ]
+ }
+]

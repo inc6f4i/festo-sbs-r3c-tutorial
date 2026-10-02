@@ -1,0 +1,278 @@
+[
+ {
+  "src": "images/raw/photo_setup_overview.jpg",
+  "out": "images/annotated/photo_00_setup_overview.jpg",
+  "boxes": [
+   {
+    "n": 1,
+    "xy": [
+     308,
+     708,
+     608,
+     1042
+    ]
+   },
+   {
+    "n": 2,
+    "xy": [
+     387,
+     433,
+     470,
+     717
+    ],
+    "badge": "left"
+   },
+   {
+    "n": 3,
+    "xy": [
+     473,
+     450,
+     567,
+     717
+    ],
+    "badge": "right"
+   },
+   {
+    "n": 4,
+    "xy": [
+     550,
+     558,
+     733,
+     867
+    ],
+    "badge": "right"
+   },
+   {
+    "n": 5,
+    "xy": [
+     492,
+     1275,
+     653,
+     1437
+    ]
+   },
+   {
+    "n": 6,
+    "xy": [
+     863,
+     1370,
+     1013,
+     1530
+    ],
+    "badge": "right"
+   },
+   {
+    "n": 7,
+    "xy": [
+     42,
+     1358,
+     1000,
+     1817
+    ],
+    "badge": "top"
+   }
+  ]
+ },
+ {
+  "src": "images/raw/photo_setup_side.jpg",
+  "out": "images/annotated/photo_00_setup_side.jpg",
+  "boxes": [
+   {
+    "n": 1,
+    "xy": [
+     225,
+     550,
+     575,
+     942
+    ]
+   },
+   {
+    "n": 2,
+    "xy": [
+     567,
+     350,
+     833,
+     750
+    ],
+    "badge": "right"
+   },
+   {
+    "n": 3,
+    "xy": [
+     667,
+     1150,
+     867,
+     1333
+    ],
+    "badge": "right"
+   },
+   {
+    "n": 4,
+    "xy": [
+     450,
+     1267,
+     642,
+     1475
+    ]
+   },
+   {
+    "n": 5,
+    "xy": [
+     0,
+     1267,
+     983,
+     1967
+    ],
+    "badge": "top"
+   }
+  ]
+ },
+ {
+  "src": "images/raw/photo_setup_front.jpg",
+  "out": "images/annotated/photo_00_setup_front.jpg",
+  "boxes": [
+   {
+    "n": 1,
+    "xy": [
+     433,
+     617,
+     767,
+     1075
+    ]
+   },
+   {
+    "n": 2,
+    "xy": [
+     375,
+     1292,
+     608,
+     1467
+    ]
+   },
+   {
+    "n": 3,
+    "xy": [
+     453,
+     1467,
+     653,
+     1675
+    ]
+   },
+   {
+    "n": 4,
+    "xy": [
+     900,
+     1458,
+     1075,
+     1650
+    ],
+    "badge": "right"
+   }
+  ]
+ },
+ {
+  "src": "images/raw/photo_sensor_label.jpg",
+  "out": "images/annotated/photo_01_sensor_label.jpg",
+  "boxes": [
+   {
+    "n": 1,
+    "xy": [
+     400,
+     238,
+     800,
+     278
+    ]
+   },
+   {
+    "n": 2,
+    "xy": [
+     425,
+     288,
+     812,
+     332
+    ]
+   },
+   {
+    "n": 3,
+    "xy": [
+     405,
+     335,
+     812,
+     418
+    ]
+   },
+   {
+    "n": 4,
+    "xy": [
+     450,
+     420,
+     742,
+     462
+    ]
+   },
+   {
+    "n": 5,
+    "xy": [
+     405,
+     466,
+     830,
+     645
+    ]
+   }
+  ]
+ },
+ {
+  "src": "images/raw/photo_sensor_back.jpg",
+  "out": "images/annotated/photo_01_sensor_back.jpg",
+  "boxes": [
+   {
+    "n": 1,
+    "xy": [
+     165,
+     120,
+     340,
+     142
+    ],
+    "badge": "left"
+   },
+   {
+    "n": 2,
+    "xy": [
+     228,
+     144,
+     322,
+     172
+    ],
+    "badge": "left"
+   },
+   {
+    "n": 3,
+    "xy": [
+     210,
+     195,
+     415,
+     470
+    ]
+   },
+   {
+    "n": 4,
+    "xy": [
+     440,
+     195,
+     660,
+     420
+    ],
+    "badge": "right"
+   },
+   {
+    "n": 5,
+    "xy": [
+     95,
+     28,
+     625,
+     102
+    ]
+   }
+  ]
+ }
+]
