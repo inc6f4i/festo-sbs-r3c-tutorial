@@ -1,0 +1,106 @@
+[
+  {
+    "src": "images/raw/cs_job_image-acquisition.png",
+    "out": "images/annotated/cs_00_layout.png",
+    "boxes": [
+      {"n": 1, "xy": [4, 32, 192, 50]},
+      {"n": 2, "xy": [4, 52, 420, 88]},
+      {"n": 3, "xy": [10, 96, 191, 291]},
+      {"n": 4, "xy": [10, 347, 191, 426]},
+      {"n": 5, "xy": [10, 430, 191, 481]},
+      {"n": 6, "xy": [208, 95, 703, 418]},
+      {"n": 7, "xy": [208, 437, 600, 466]},
+      {"n": 8, "xy": [716, 86, 1172, 490]},
+      {"n": 9, "xy": [10, 538, 434, 762]},
+      {"n": 10, "xy": [440, 538, 864, 557]},
+      {"n": 11, "xy": [2, 770, 1172, 798]}
+    ]
+  },
+  {
+    "src": "images/raw/dm_main.png",
+    "out": "images/annotated/dm_00_layout.png",
+    "boxes": [
+      {"n": 1, "xy": [4, 56, 34, 84]},
+      {"n": 2, "xy": [2, 104, 524, 448]},
+      {"n": 3, "xy": [2, 450, 524, 592]},
+      {"n": 4, "xy": [2, 594, 337, 652]},
+      {"n": 5, "xy": [340, 594, 524, 652]},
+      {"n": 6, "xy": [2, 656, 524, 686]},
+      {"n": 7, "xy": [548, 104, 832, 640]},
+      {"n": 8, "xy": [2, 690, 520, 714]}
+    ]
+  },
+  {
+    "src": "images/raw/cs_job_image-acquisition.png",
+    "out": "images/annotated/cs_01_job_image-acquisition.png",
+    "boxes": [
+      {"n": 1, "xy": [20, 120, 182, 141]},
+      {"n": 2, "xy": [442, 538, 562, 556]},
+      {"n": 3, "xy": [447, 565, 575, 606]},
+      {"n": 4, "xy": [594, 565, 808, 630]},
+      {"n": 5, "xy": [447, 650, 575, 690]},
+      {"n": 6, "xy": [594, 650, 808, 690]},
+      {"n": 7, "xy": [447, 692, 560, 750]},
+      {"n": 8, "xy": [830, 565, 945, 650]},
+      {"n": 9, "xy": [830, 652, 945, 732]}
+    ]
+  },
+  {
+    "src": "images/raw/cs_job_white-balance.png",
+    "out": "images/annotated/cs_02_job_white-balance.png",
+    "boxes": [
+      {"n": 1, "xy": [20, 120, 182, 141]},
+      {"n": 2, "xy": [563, 538, 671, 556]},
+      {"n": 3, "xy": [455, 563, 515, 580]},
+      {"n": 4, "xy": [455, 592, 668, 730]},
+      {"n": 5, "xy": [670, 606, 756, 680]}
+    ]
+  },
+  {
+    "src": "images/raw/cs_alignment.png",
+    "out": "images/annotated/cs_03_alignment.png",
+    "boxes": [
+      {"n": 1, "xy": [20, 148, 182, 169]},
+      {"n": 2, "xy": [10, 540, 174, 628]},
+      {"n": 3, "xy": [10, 695, 174, 718]}
+    ]
+  },
+  {
+    "src": "images/raw/cs_detector.png",
+    "out": "images/annotated/cs_04_detector.png",
+    "boxes": [
+      {"n": 1, "xy": [20, 176, 182, 197]},
+      {"n": 2, "xy": [10, 538, 434, 730]},
+      {"n": 3, "xy": [10, 736, 92, 760]}
+    ]
+  },
+  {
+    "src": "images/raw/cs_output_io-mapping.png",
+    "out": "images/annotated/cs_05_output_io-mapping.png",
+    "boxes": [
+      {"n": 1, "xy": [20, 204, 182, 225]},
+      {"n": 2, "xy": [12, 538, 630, 557]},
+      {"n": 3, "xy": [22, 568, 262, 694]},
+      {"n": 4, "xy": [264, 568, 418, 694]},
+      {"n": 5, "xy": [464, 568, 820, 694]}
+    ]
+  },
+  {
+    "src": "images/raw/cs_result.png",
+    "out": "images/annotated/cs_06_result.png",
+    "boxes": [
+      {"n": 1, "xy": [20, 232, 182, 253]},
+      {"n": 2, "xy": [12, 536, 372, 750]},
+      {"n": 3, "xy": [874, 536, 1164, 750]},
+      {"n": 4, "xy": [20, 260, 182, 281]}
+    ]
+  },
+  {
+    "src": "images/raw/cs_alignment_status-bar.png",
+    "out": "images/annotated/cs_07_status-bar_dout.png",
+    "boxes": [
+      {"n": 1, "xy": [0, 766, 880, 790]},
+      {"n": 2, "xy": [884, 766, 1158, 790]}
+    ]
+  }
+]

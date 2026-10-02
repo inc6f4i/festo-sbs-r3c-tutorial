@@ -1,0 +1,13 @@
+# Festo 원본 문서(저작권) — 저장소에 올리지 않는다
+*.pdf
+*.chm
+*.qch
+*.qhc
+ref/
+
+# OS / 편집기
+Thumbs.db
+desktop.ini
+.DS_Store
+.vscode/
+__pycache__/
