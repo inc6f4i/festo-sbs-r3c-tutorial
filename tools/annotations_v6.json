@@ -1,0 +1,72 @@
+[
+ {
+  "src": "images/raw/cs_live_02_pink-brown_day.png",
+  "out": "images/annotated/cs_live_08_roi-analysis.png",
+  "boxes": [
+   {
+    "n": 1,
+    "xy": [
+     20,
+     60,
+     240,
+     420
+    ],
+    "color": "#ff00aa",
+    "badge": "inside"
+   },
+   {
+    "n": 2,
+    "xy": [
+     290,
+     20,
+     410,
+     450
+    ],
+    "color": "#ff00aa",
+    "badge": "inside"
+   },
+   {
+    "n": 3,
+    "xy": [
+     440,
+     140,
+     730,
+     210
+    ],
+    "badge": "top"
+   },
+   {
+    "n": 4,
+    "xy": [
+     440,
+     240,
+     730,
+     300
+    ],
+    "badge": "top"
+   },
+   {
+    "n": 5,
+    "xy": [
+     440,
+     150,
+     480,
+     200
+    ],
+    "color": "#00c0ff",
+    "badge": "inside"
+   },
+   {
+    "n": 6,
+    "xy": [
+     440,
+     245,
+     480,
+     295
+    ],
+    "color": "#00c0ff",
+    "badge": "inside"
+   }
+  ]
+ }
+]
